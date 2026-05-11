@@ -1,0 +1,22 @@
+{
+    "name": "vida-e-graca-theme",
+    "version": "1.0.0",
+    "description": "WordPress Theme with Tailwind CSS for Revista Vida & Graça",
+    "main": "index.php",
+    "scripts": {
+        "build": "tailwindcss -i ./src/input.css -o ./assets/css/main.css --minify",
+        "watch": "tailwindcss -i ./src/input.css -o ./assets/css/main.css --watch"
+    },
+    "keywords": [
+        "wordpress",
+        "theme",
+        "tailwind"
+    ],
+    "author": "Antigravity",
+    "license": "MIT",
+    "devDependencies": {
+        "tailwindcss": "^3.4.0",
+        "autoprefixer": "^10.4.16",
+        "postcss": "^8.4.32"
+    }
+}

@@ -1,0 +1,1010 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0"
+    xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
+    xmlns:content="http://purl.org/rss/1.0/modules/content/"
+    xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:wp="http://wordpress.org/export/1.2/"
+>
+<channel>
+    <title>Revista Vida &amp; Graça</title>
+    <link>https://vidaeegraca.com.br</link>
+    <description>Vivendo com propósito</description>
+    <pubDate>Fri, 20 Feb 2026 12:00:00 +0000</pubDate>
+    <language>pt-BR</language>
+    <wp:wxr_version>1.2</wp:wxr_version>
+    <wp:base_site_url>https://vidaeegraca.com.br</wp:base_site_url>
+    <wp:base_blog_url>https://vidaeegraca.com.br</wp:base_blog_url>
+
+    <!-- Autores (2 distintos para testar Author Bio E-E-A-T) -->
+    <wp:author>
+        <wp:author_id>1</wp:author_id>
+        <wp:author_login>igrejacma</wp:author_login>
+        <wp:author_email>contato@vidaeegraca.com.br</wp:author_email>
+        <wp:author_display_name><![CDATA[Redação Vida & Graça]]></wp:author_display_name>
+        <wp:author_first_name><![CDATA[Redação]]></wp:author_first_name>
+        <wp:author_last_name><![CDATA[Vida & Graça]]></wp:author_last_name>
+    </wp:author>
+    <wp:author>
+        <wp:author_id>2</wp:author_id>
+        <wp:author_login>francisteles</wp:author_login>
+        <wp:author_email>francistellesjor@gmail.com</wp:author_email>
+        <wp:author_display_name><![CDATA[Francis Teles]]></wp:author_display_name>
+        <wp:author_first_name><![CDATA[Francis]]></wp:author_first_name>
+        <wp:author_last_name><![CDATA[Teles]]></wp:author_last_name>
+    </wp:author>
+    <wp:author>
+        <wp:author_id>3</wp:author_id>
+        <wp:author_login>cassianobento</wp:author_login>
+        <wp:author_email>cassioano.bento@gmail.com</wp:author_email>
+        <wp:author_display_name><![CDATA[Cassiano de Souza Bento]]></wp:author_display_name>
+        <wp:author_first_name><![CDATA[Cassiano]]></wp:author_first_name>
+        <wp:author_last_name><![CDATA[de Souza Bento]]></wp:author_last_name>
+    </wp:author>
+
+    <!-- Categorias -->
+    <wp:category>
+        <wp:term_id>10</wp:term_id>
+        <wp:category_nicename><![CDATA[fe-e-cotidiano]]></wp:category_nicename>
+        <wp:category_parent><![CDATA[]]></wp:category_parent>
+        <wp:cat_name><![CDATA[Fé & Cotidiano]]></wp:cat_name>
+    </wp:category>
+    <wp:category>
+        <wp:term_id>11</wp:term_id>
+        <wp:category_nicename><![CDATA[cultura-e-arte]]></wp:category_nicename>
+        <wp:category_parent><![CDATA[]]></wp:category_parent>
+        <wp:cat_name><![CDATA[Cultura & Arte]]></wp:cat_name>
+    </wp:category>
+    <wp:category>
+        <wp:term_id>12</wp:term_id>
+        <wp:category_nicename><![CDATA[historias-reais]]></wp:category_nicename>
+        <wp:category_parent><![CDATA[]]></wp:category_parent>
+        <wp:cat_name><![CDATA[Histórias Reais]]></wp:cat_name>
+    </wp:category>
+    <wp:category>
+        <wp:term_id>13</wp:term_id>
+        <wp:category_nicename><![CDATA[vida-e-sociedade]]></wp:category_nicename>
+        <wp:category_parent><![CDATA[]]></wp:category_parent>
+        <wp:cat_name><![CDATA[Vida & Sociedade]]></wp:cat_name>
+    </wp:category>
+
+    <!-- Tags -->
+    <wp:tag>
+        <wp:term_id>20</wp:term_id>
+        <wp:tag_slug><![CDATA[evangelismo]]></wp:tag_slug>
+        <wp:tag_name><![CDATA[Evangelismo]]></wp:tag_name>
+    </wp:tag>
+    <wp:tag>
+        <wp:term_id>21</wp:term_id>
+        <wp:tag_slug><![CDATA[missoes]]></wp:tag_slug>
+        <wp:tag_name><![CDATA[Missões]]></wp:tag_name>
+    </wp:tag>
+    <wp:tag>
+        <wp:term_id>22</wp:term_id>
+        <wp:tag_slug><![CDATA[testemunho]]></wp:tag_slug>
+        <wp:tag_name><![CDATA[Testemunho]]></wp:tag_name>
+    </wp:tag>
+    <wp:tag>
+        <wp:term_id>23</wp:term_id>
+        <wp:tag_slug><![CDATA[esporte]]></wp:tag_slug>
+        <wp:tag_name><![CDATA[Esporte]]></wp:tag_name>
+    </wp:tag>
+    <wp:tag>
+        <wp:term_id>24</wp:term_id>
+        <wp:tag_slug><![CDATA[fe]]></wp:tag_slug>
+        <wp:tag_name><![CDATA[Fé]]></wp:tag_name>
+    </wp:tag>
+    <wp:tag>
+        <wp:term_id>25</wp:term_id>
+        <wp:tag_slug><![CDATA[adoracao]]></wp:tag_slug>
+        <wp:tag_name><![CDATA[Adoração]]></wp:tag_name>
+    </wp:tag>
+    <wp:tag>
+        <wp:term_id>26</wp:term_id>
+        <wp:tag_slug><![CDATA[lideranca]]></wp:tag_slug>
+        <wp:tag_name><![CDATA[Liderança]]></wp:tag_name>
+    </wp:tag>
+    <wp:tag>
+        <wp:term_id>27</wp:term_id>
+        <wp:tag_slug><![CDATA[carater]]></wp:tag_slug>
+        <wp:tag_name><![CDATA[Caráter]]></wp:tag_name>
+    </wp:tag>
+    <wp:tag>
+        <wp:term_id>28</wp:term_id>
+        <wp:tag_slug><![CDATA[editorial]]></wp:tag_slug>
+        <wp:tag_name><![CDATA[Editorial]]></wp:tag_name>
+    </wp:tag>
+    <wp:tag>
+        <wp:term_id>29</wp:term_id>
+        <wp:tag_slug><![CDATA[igreja]]></wp:tag_slug>
+        <wp:tag_name><![CDATA[Igreja]]></wp:tag_name>
+    </wp:tag>
+
+    <!-- ==================== MENUS DE NAVEGAÇÃO ==================== -->
+
+    <!-- Termos de Menu (nav_menu) -->
+    <wp:term>
+        <wp:term_id>40</wp:term_id>
+        <wp:term_taxonomy>nav_menu</wp:term_taxonomy>
+        <wp:term_slug><![CDATA[rodape-editorias]]></wp:term_slug>
+        <wp:term_name><![CDATA[Rodapé — Editorias]]></wp:term_name>
+    </wp:term>
+    <wp:term>
+        <wp:term_id>41</wp:term_id>
+        <wp:term_taxonomy>nav_menu</wp:term_taxonomy>
+        <wp:term_slug><![CDATA[rodape-a-revista]]></wp:term_slug>
+        <wp:term_name><![CDATA[Rodapé — A Revista]]></wp:term_name>
+    </wp:term>
+    <wp:term>
+        <wp:term_id>42</wp:term_id>
+        <wp:term_taxonomy>nav_menu</wp:term_taxonomy>
+        <wp:term_slug><![CDATA[rodape-publicacoes]]></wp:term_slug>
+        <wp:term_name><![CDATA[Rodapé — Publicações]]></wp:term_name>
+    </wp:term>
+    <wp:term>
+        <wp:term_id>43</wp:term_id>
+        <wp:term_taxonomy>nav_menu</wp:term_taxonomy>
+        <wp:term_slug><![CDATA[rodape-links-legais]]></wp:term_slug>
+        <wp:term_name><![CDATA[Rodapé — Links Legais]]></wp:term_name>
+    </wp:term>
+
+    <!-- ====== Menu: Rodapé — Editorias (Categorias) ====== -->
+    <item>
+        <title>Fé &amp; Cotidiano</title>
+        <link>https://vidaeegraca.com.br/categoria/fe-e-cotidiano/</link>
+        <pubDate>Fri, 20 Feb 2026 12:00:00 +0000</pubDate>
+        <dc:creator><![CDATA[igrejacma]]></dc:creator>
+        <guid isPermaLink="false">https://vidaeegraca.com.br/?p=201</guid>
+        <description></description>
+        <content:encoded><![CDATA[]]></content:encoded>
+        <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+        <wp:post_id>201</wp:post_id>
+        <wp:post_date><![CDATA[2026-02-20 12:00:00]]></wp:post_date>
+        <wp:status><![CDATA[publish]]></wp:status>
+        <wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+        <wp:menu_order>1</wp:menu_order>
+        <wp:postmeta><wp:meta_key>_menu_item_type</wp:meta_key><wp:meta_value>taxonomy</wp:meta_value></wp:postmeta>
+        <wp:postmeta><wp:meta_key>_menu_item_object</wp:meta_key><wp:meta_value>category</wp:meta_value></wp:postmeta>
+        <wp:postmeta><wp:meta_key>_menu_item_object_id</wp:meta_key><wp:meta_value>10</wp:meta_value></wp:postmeta>
+        <wp:postmeta><wp:meta_key>_menu_item_menu_item_parent</wp:meta_key><wp:meta_value>0</wp:meta_value></wp:postmeta>
+        <wp:postmeta><wp:meta_key>_menu_item_url</wp:meta_key><wp:meta_value></wp:meta_value></wp:postmeta>
+        <category domain="nav_menu" nicename="rodape-editorias"><![CDATA[Rodapé — Editorias]]></category>
+    </item>
+    <item>
+        <title>Cultura &amp; Arte</title>
+        <link>https://vidaeegraca.com.br/categoria/cultura-e-arte/</link>
+        <pubDate>Fri, 20 Feb 2026 12:00:00 +0000</pubDate>
+        <dc:creator><![CDATA[igrejacma]]></dc:creator>
+        <guid isPermaLink="false">https://vidaeegraca.com.br/?p=202</guid>
+        <description></description>
+        <content:encoded><![CDATA[]]></content:encoded>
+        <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+        <wp:post_id>202</wp:post_id>
+        <wp:post_date><![CDATA[2026-02-20 12:00:00]]></wp:post_date>
+        <wp:status><![CDATA[publish]]></wp:status>
+        <wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+        <wp:menu_order>2</wp:menu_order>
+        <wp:postmeta><wp:meta_key>_menu_item_type</wp:meta_key><wp:meta_value>taxonomy</wp:meta_value></wp:postmeta>
+        <wp:postmeta><wp:meta_key>_menu_item_object</wp:meta_key><wp:meta_value>category</wp:meta_value></wp:postmeta>
+        <wp:postmeta><wp:meta_key>_menu_item_object_id</wp:meta_key><wp:meta_value>11</wp:meta_value></wp:postmeta>
+        <wp:postmeta><wp:meta_key>_menu_item_menu_item_parent</wp:meta_key><wp:meta_value>0</wp:meta_value></wp:postmeta>
+        <wp:postmeta><wp:meta_key>_menu_item_url</wp:meta_key><wp:meta_value></wp:meta_value></wp:postmeta>
+        <category domain="nav_menu" nicename="rodape-editorias"><![CDATA[Rodapé — Editorias]]></category>
+    </item>
+    <item>
+        <title>Histórias Reais</title>
+        <link>https://vidaeegraca.com.br/categoria/historias-reais/</link>
+        <pubDate>Fri, 20 Feb 2026 12:00:00 +0000</pubDate>
+        <dc:creator><![CDATA[igrejacma]]></dc:creator>
+        <guid isPermaLink="false">https://vidaeegraca.com.br/?p=203</guid>
+        <description></description>
+        <content:encoded><![CDATA[]]></content:encoded>
+        <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+        <wp:post_id>203</wp:post_id>
+        <wp:post_date><![CDATA[2026-02-20 12:00:00]]></wp:post_date>
+        <wp:status><![CDATA[publish]]></wp:status>
+        <wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+        <wp:menu_order>3</wp:menu_order>
+        <wp:postmeta><wp:meta_key>_menu_item_type</wp:meta_key><wp:meta_value>taxonomy</wp:meta_value></wp:postmeta>
+        <wp:postmeta><wp:meta_key>_menu_item_object</wp:meta_key><wp:meta_value>category</wp:meta_value></wp:postmeta>
+        <wp:postmeta><wp:meta_key>_menu_item_object_id</wp:meta_key><wp:meta_value>12</wp:meta_value></wp:postmeta>
+        <wp:postmeta><wp:meta_key>_menu_item_menu_item_parent</wp:meta_key><wp:meta_value>0</wp:meta_value></wp:postmeta>
+        <wp:postmeta><wp:meta_key>_menu_item_url</wp:meta_key><wp:meta_value></wp:meta_value></wp:postmeta>
+        <category domain="nav_menu" nicename="rodape-editorias"><![CDATA[Rodapé — Editorias]]></category>
+    </item>
+    <item>
+        <title>Vida &amp; Sociedade</title>
+        <link>https://vidaeegraca.com.br/categoria/vida-e-sociedade/</link>
+        <pubDate>Fri, 20 Feb 2026 12:00:00 +0000</pubDate>
+        <dc:creator><![CDATA[igrejacma]]></dc:creator>
+        <guid isPermaLink="false">https://vidaeegraca.com.br/?p=204</guid>
+        <description></description>
+        <content:encoded><![CDATA[]]></content:encoded>
+        <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+        <wp:post_id>204</wp:post_id>
+        <wp:post_date><![CDATA[2026-02-20 12:00:00]]></wp:post_date>
+        <wp:status><![CDATA[publish]]></wp:status>
+        <wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+        <wp:menu_order>4</wp:menu_order>
+        <wp:postmeta><wp:meta_key>_menu_item_type</wp:meta_key><wp:meta_value>taxonomy</wp:meta_value></wp:postmeta>
+        <wp:postmeta><wp:meta_key>_menu_item_object</wp:meta_key><wp:meta_value>category</wp:meta_value></wp:postmeta>
+        <wp:postmeta><wp:meta_key>_menu_item_object_id</wp:meta_key><wp:meta_value>13</wp:meta_value></wp:postmeta>
+        <wp:postmeta><wp:meta_key>_menu_item_menu_item_parent</wp:meta_key><wp:meta_value>0</wp:meta_value></wp:postmeta>
+        <wp:postmeta><wp:meta_key>_menu_item_url</wp:meta_key><wp:meta_value></wp:meta_value></wp:postmeta>
+        <category domain="nav_menu" nicename="rodape-editorias"><![CDATA[Rodapé — Editorias]]></category>
+    </item>
+
+    <!-- ====== Menu: Rodapé — A Revista ====== -->
+    <item>
+        <title>Sobre Nós</title>
+        <link>https://vidaeegraca.com.br/sobre/</link>
+        <pubDate>Fri, 20 Feb 2026 12:00:00 +0000</pubDate>
+        <dc:creator><![CDATA[igrejacma]]></dc:creator>
+        <guid isPermaLink="false">https://vidaeegraca.com.br/?p=211</guid>
+        <description></description>
+        <content:encoded><![CDATA[]]></content:encoded>
+        <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+        <wp:post_id>211</wp:post_id>
+        <wp:post_date><![CDATA[2026-02-20 12:00:00]]></wp:post_date>
+        <wp:status><![CDATA[publish]]></wp:status>
+        <wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+        <wp:menu_order>1</wp:menu_order>
+        <wp:postmeta><wp:meta_key>_menu_item_type</wp:meta_key><wp:meta_value>custom</wp:meta_value></wp:postmeta>
+        <wp:postmeta><wp:meta_key>_menu_item_object</wp:meta_key><wp:meta_value>custom</wp:meta_value></wp:postmeta>
+        <wp:postmeta><wp:meta_key>_menu_item_object_id</wp:meta_key><wp:meta_value>211</wp:meta_value></wp:postmeta>
+        <wp:postmeta><wp:meta_key>_menu_item_menu_item_parent</wp:meta_key><wp:meta_value>0</wp:meta_value></wp:postmeta>
+        <wp:postmeta><wp:meta_key>_menu_item_url</wp:meta_key><wp:meta_value>https://vidaeegraca.com.br/sobre/</wp:meta_value></wp:postmeta>
+        <category domain="nav_menu" nicename="rodape-a-revista"><![CDATA[Rodapé — A Revista]]></category>
+    </item>
+    <item>
+        <title>Expediente</title>
+        <link>https://vidaeegraca.com.br/expediente/</link>
+        <pubDate>Fri, 20 Feb 2026 12:00:00 +0000</pubDate>
+        <dc:creator><![CDATA[igrejacma]]></dc:creator>
+        <guid isPermaLink="false">https://vidaeegraca.com.br/?p=212</guid>
+        <description></description>
+        <content:encoded><![CDATA[]]></content:encoded>
+        <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+        <wp:post_id>212</wp:post_id>
+        <wp:post_date><![CDATA[2026-02-20 12:00:00]]></wp:post_date>
+        <wp:status><![CDATA[publish]]></wp:status>
+        <wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+        <wp:menu_order>2</wp:menu_order>
+        <wp:postmeta><wp:meta_key>_menu_item_type</wp:meta_key><wp:meta_value>custom</wp:meta_value></wp:postmeta>
+        <wp:postmeta><wp:meta_key>_menu_item_object</wp:meta_key><wp:meta_value>custom</wp:meta_value></wp:postmeta>
+        <wp:postmeta><wp:meta_key>_menu_item_object_id</wp:meta_key><wp:meta_value>212</wp:meta_value></wp:postmeta>
+        <wp:postmeta><wp:meta_key>_menu_item_menu_item_parent</wp:meta_key><wp:meta_value>0</wp:meta_value></wp:postmeta>
+        <wp:postmeta><wp:meta_key>_menu_item_url</wp:meta_key><wp:meta_value>https://vidaeegraca.com.br/expediente/</wp:meta_value></wp:postmeta>
+        <category domain="nav_menu" nicename="rodape-a-revista"><![CDATA[Rodapé — A Revista]]></category>
+    </item>
+    <item>
+        <title>Contato</title>
+        <link>https://vidaeegraca.com.br/contato/</link>
+        <pubDate>Fri, 20 Feb 2026 12:00:00 +0000</pubDate>
+        <dc:creator><![CDATA[igrejacma]]></dc:creator>
+        <guid isPermaLink="false">https://vidaeegraca.com.br/?p=213</guid>
+        <description></description>
+        <content:encoded><![CDATA[]]></content:encoded>
+        <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+        <wp:post_id>213</wp:post_id>
+        <wp:post_date><![CDATA[2026-02-20 12:00:00]]></wp:post_date>
+        <wp:status><![CDATA[publish]]></wp:status>
+        <wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+        <wp:menu_order>3</wp:menu_order>
+        <wp:postmeta><wp:meta_key>_menu_item_type</wp:meta_key><wp:meta_value>custom</wp:meta_value></wp:postmeta>
+        <wp:postmeta><wp:meta_key>_menu_item_object</wp:meta_key><wp:meta_value>custom</wp:meta_value></wp:postmeta>
+        <wp:postmeta><wp:meta_key>_menu_item_object_id</wp:meta_key><wp:meta_value>213</wp:meta_value></wp:postmeta>
+        <wp:postmeta><wp:meta_key>_menu_item_menu_item_parent</wp:meta_key><wp:meta_value>0</wp:meta_value></wp:postmeta>
+        <wp:postmeta><wp:meta_key>_menu_item_url</wp:meta_key><wp:meta_value>https://vidaeegraca.com.br/contato/</wp:meta_value></wp:postmeta>
+        <category domain="nav_menu" nicename="rodape-a-revista"><![CDATA[Rodapé — A Revista]]></category>
+    </item>
+    <item>
+        <title>Anuncie</title>
+        <link>https://vidaeegraca.com.br/anuncie/</link>
+        <pubDate>Fri, 20 Feb 2026 12:00:00 +0000</pubDate>
+        <dc:creator><![CDATA[igrejacma]]></dc:creator>
+        <guid isPermaLink="false">https://vidaeegraca.com.br/?p=214</guid>
+        <description></description>
+        <content:encoded><![CDATA[]]></content:encoded>
+        <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+        <wp:post_id>214</wp:post_id>
+        <wp:post_date><![CDATA[2026-02-20 12:00:00]]></wp:post_date>
+        <wp:status><![CDATA[publish]]></wp:status>
+        <wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+        <wp:menu_order>4</wp:menu_order>
+        <wp:postmeta><wp:meta_key>_menu_item_type</wp:meta_key><wp:meta_value>custom</wp:meta_value></wp:postmeta>
+        <wp:postmeta><wp:meta_key>_menu_item_object</wp:meta_key><wp:meta_value>custom</wp:meta_value></wp:postmeta>
+        <wp:postmeta><wp:meta_key>_menu_item_object_id</wp:meta_key><wp:meta_value>214</wp:meta_value></wp:postmeta>
+        <wp:postmeta><wp:meta_key>_menu_item_menu_item_parent</wp:meta_key><wp:meta_value>0</wp:meta_value></wp:postmeta>
+        <wp:postmeta><wp:meta_key>_menu_item_url</wp:meta_key><wp:meta_value>https://vidaeegraca.com.br/anuncie/</wp:meta_value></wp:postmeta>
+        <category domain="nav_menu" nicename="rodape-a-revista"><![CDATA[Rodapé — A Revista]]></category>
+    </item>
+
+    <!-- ====== Menu: Rodapé — Publicações ====== -->
+    <item>
+        <title>Edição Atual</title>
+        <link>https://vidaeegraca.com.br/edicao-atual/</link>
+        <pubDate>Fri, 20 Feb 2026 12:00:00 +0000</pubDate>
+        <dc:creator><![CDATA[igrejacma]]></dc:creator>
+        <guid isPermaLink="false">https://vidaeegraca.com.br/?p=221</guid>
+        <description></description>
+        <content:encoded><![CDATA[]]></content:encoded>
+        <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+        <wp:post_id>221</wp:post_id>
+        <wp:post_date><![CDATA[2026-02-20 12:00:00]]></wp:post_date>
+        <wp:status><![CDATA[publish]]></wp:status>
+        <wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+        <wp:menu_order>1</wp:menu_order>
+        <wp:postmeta><wp:meta_key>_menu_item_type</wp:meta_key><wp:meta_value>custom</wp:meta_value></wp:postmeta>
+        <wp:postmeta><wp:meta_key>_menu_item_object</wp:meta_key><wp:meta_value>custom</wp:meta_value></wp:postmeta>
+        <wp:postmeta><wp:meta_key>_menu_item_object_id</wp:meta_key><wp:meta_value>221</wp:meta_value></wp:postmeta>
+        <wp:postmeta><wp:meta_key>_menu_item_menu_item_parent</wp:meta_key><wp:meta_value>0</wp:meta_value></wp:postmeta>
+        <wp:postmeta><wp:meta_key>_menu_item_url</wp:meta_key><wp:meta_value>https://vidaeegraca.com.br/edicao-atual/</wp:meta_value></wp:postmeta>
+        <category domain="nav_menu" nicename="rodape-publicacoes"><![CDATA[Rodapé — Publicações]]></category>
+    </item>
+    <item>
+        <title>Edições Anteriores</title>
+        <link>https://vidaeegraca.com.br/edicoes-anteriores/</link>
+        <pubDate>Fri, 20 Feb 2026 12:00:00 +0000</pubDate>
+        <dc:creator><![CDATA[igrejacma]]></dc:creator>
+        <guid isPermaLink="false">https://vidaeegraca.com.br/?p=222</guid>
+        <description></description>
+        <content:encoded><![CDATA[]]></content:encoded>
+        <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+        <wp:post_id>222</wp:post_id>
+        <wp:post_date><![CDATA[2026-02-20 12:00:00]]></wp:post_date>
+        <wp:status><![CDATA[publish]]></wp:status>
+        <wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+        <wp:menu_order>2</wp:menu_order>
+        <wp:postmeta><wp:meta_key>_menu_item_type</wp:meta_key><wp:meta_value>custom</wp:meta_value></wp:postmeta>
+        <wp:postmeta><wp:meta_key>_menu_item_object</wp:meta_key><wp:meta_value>custom</wp:meta_value></wp:postmeta>
+        <wp:postmeta><wp:meta_key>_menu_item_object_id</wp:meta_key><wp:meta_value>222</wp:meta_value></wp:postmeta>
+        <wp:postmeta><wp:meta_key>_menu_item_menu_item_parent</wp:meta_key><wp:meta_value>0</wp:meta_value></wp:postmeta>
+        <wp:postmeta><wp:meta_key>_menu_item_url</wp:meta_key><wp:meta_value>https://vidaeegraca.com.br/edicoes-anteriores/</wp:meta_value></wp:postmeta>
+        <category domain="nav_menu" nicename="rodape-publicacoes"><![CDATA[Rodapé — Publicações]]></category>
+    </item>
+    <item>
+        <title>Colunistas</title>
+        <link>https://vidaeegraca.com.br/colunistas/</link>
+        <pubDate>Fri, 20 Feb 2026 12:00:00 +0000</pubDate>
+        <dc:creator><![CDATA[igrejacma]]></dc:creator>
+        <guid isPermaLink="false">https://vidaeegraca.com.br/?p=223</guid>
+        <description></description>
+        <content:encoded><![CDATA[]]></content:encoded>
+        <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+        <wp:post_id>223</wp:post_id>
+        <wp:post_date><![CDATA[2026-02-20 12:00:00]]></wp:post_date>
+        <wp:status><![CDATA[publish]]></wp:status>
+        <wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+        <wp:menu_order>3</wp:menu_order>
+        <wp:postmeta><wp:meta_key>_menu_item_type</wp:meta_key><wp:meta_value>custom</wp:meta_value></wp:postmeta>
+        <wp:postmeta><wp:meta_key>_menu_item_object</wp:meta_key><wp:meta_value>custom</wp:meta_value></wp:postmeta>
+        <wp:postmeta><wp:meta_key>_menu_item_object_id</wp:meta_key><wp:meta_value>223</wp:meta_value></wp:postmeta>
+        <wp:postmeta><wp:meta_key>_menu_item_menu_item_parent</wp:meta_key><wp:meta_value>0</wp:meta_value></wp:postmeta>
+        <wp:postmeta><wp:meta_key>_menu_item_url</wp:meta_key><wp:meta_value>https://vidaeegraca.com.br/colunistas/</wp:meta_value></wp:postmeta>
+        <category domain="nav_menu" nicename="rodape-publicacoes"><![CDATA[Rodapé — Publicações]]></category>
+    </item>
+
+    <!-- ====== Menu: Rodapé — Links Legais ====== -->
+    <item>
+        <title>Política de Privacidade</title>
+        <link>https://vidaeegraca.com.br/privacidade/</link>
+        <pubDate>Fri, 20 Feb 2026 12:00:00 +0000</pubDate>
+        <dc:creator><![CDATA[igrejacma]]></dc:creator>
+        <guid isPermaLink="false">https://vidaeegraca.com.br/?p=231</guid>
+        <description></description>
+        <content:encoded><![CDATA[]]></content:encoded>
+        <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+        <wp:post_id>231</wp:post_id>
+        <wp:post_date><![CDATA[2026-02-20 12:00:00]]></wp:post_date>
+        <wp:status><![CDATA[publish]]></wp:status>
+        <wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+        <wp:menu_order>1</wp:menu_order>
+        <wp:postmeta><wp:meta_key>_menu_item_type</wp:meta_key><wp:meta_value>custom</wp:meta_value></wp:postmeta>
+        <wp:postmeta><wp:meta_key>_menu_item_object</wp:meta_key><wp:meta_value>custom</wp:meta_value></wp:postmeta>
+        <wp:postmeta><wp:meta_key>_menu_item_object_id</wp:meta_key><wp:meta_value>231</wp:meta_value></wp:postmeta>
+        <wp:postmeta><wp:meta_key>_menu_item_menu_item_parent</wp:meta_key><wp:meta_value>0</wp:meta_value></wp:postmeta>
+        <wp:postmeta><wp:meta_key>_menu_item_url</wp:meta_key><wp:meta_value>https://vidaeegraca.com.br/privacidade/</wp:meta_value></wp:postmeta>
+        <category domain="nav_menu" nicename="rodape-links-legais"><![CDATA[Rodapé — Links Legais]]></category>
+    </item>
+    <item>
+        <title>Termos de Uso</title>
+        <link>https://vidaeegraca.com.br/termos/</link>
+        <pubDate>Fri, 20 Feb 2026 12:00:00 +0000</pubDate>
+        <dc:creator><![CDATA[igrejacma]]></dc:creator>
+        <guid isPermaLink="false">https://vidaeegraca.com.br/?p=232</guid>
+        <description></description>
+        <content:encoded><![CDATA[]]></content:encoded>
+        <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+        <wp:post_id>232</wp:post_id>
+        <wp:post_date><![CDATA[2026-02-20 12:00:00]]></wp:post_date>
+        <wp:status><![CDATA[publish]]></wp:status>
+        <wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+        <wp:menu_order>2</wp:menu_order>
+        <wp:postmeta><wp:meta_key>_menu_item_type</wp:meta_key><wp:meta_value>custom</wp:meta_value></wp:postmeta>
+        <wp:postmeta><wp:meta_key>_menu_item_object</wp:meta_key><wp:meta_value>custom</wp:meta_value></wp:postmeta>
+        <wp:postmeta><wp:meta_key>_menu_item_object_id</wp:meta_key><wp:meta_value>232</wp:meta_value></wp:postmeta>
+        <wp:postmeta><wp:meta_key>_menu_item_menu_item_parent</wp:meta_key><wp:meta_value>0</wp:meta_value></wp:postmeta>
+        <wp:postmeta><wp:meta_key>_menu_item_url</wp:meta_key><wp:meta_value>https://vidaeegraca.com.br/termos/</wp:meta_value></wp:postmeta>
+        <category domain="nav_menu" nicename="rodape-links-legais"><![CDATA[Rodapé — Links Legais]]></category>
+    </item>
+
+    <item>
+        <title>Seja bem-vindo à Revista Vida &amp; Graça.</title>
+        <link>https://vidaeegraca.com.br/bem-vindo-revista-vida-e-graca/</link>
+        <pubDate>Fri, 30 Jan 2026 10:00:00 +0000</pubDate>
+        <dc:creator><![CDATA[igrejacma]]></dc:creator>
+        <guid isPermaLink="false">https://vidaeegraca.com.br/?p=101</guid>
+        <description></description>
+        <content:encoded><![CDATA[<p>É com alegria, responsabilidade e gratidão a Deus que compartilho com você o nascimento deste projeto editorial. A Vida & Graça surge do desejo de comunicar o evangelho de forma viva, relevante e conectada com o nosso tempo, sem abrir mão da verdade da Palavra e dos valores do Reino de Deus.</p>
+<p>Vivemos dias desafiadores, em que a fé cristã precisa ser não apenas professada, mas vivida com consciência, amor e propósito. Por isso, esta revista foi pensada para informar, inspirar e edificar, oferecendo conteúdos que dialogam com a cultura, fortalecem a caminhada espiritual e apontam para uma fé prática e transformadora.</p>
+<p>Cada matéria, entrevista, testemunho e reflexão aqui apresentada carrega a intenção de servir ao leitor, ampliar horizontes e renovar a esperança. Cremos que a graça de Deus nos alcança exatamente onde estamos e nos impulsiona a viver uma vida que glorifica a Ele em todas as áreas.</p>
+<p>A você, leitor, meu sincero agradecimento por caminhar conosco desde esta primeira edição. Que a Revista Vida & Graça seja uma ferramenta de edificação, encoraragemento e inspiração contínua em sua jornada de fé.</p>
+<p>Com gratidão,<br /><strong>Cassiano de Souza Bento</strong><br />Editor-Chefe – Revista Vida & Graça</p>]]></content:encoded>
+        <excerpt:encoded><![CDATA[A Vida & Graça surge do desejo de comunicar o evangelho de forma viva, relevante e conectada com o nosso tempo.]]></excerpt:encoded>
+        <wp:post_id>101</wp:post_id>
+        <wp:post_date><![CDATA[2026-01-30 10:00:00]]></wp:post_date>
+        <wp:status><![CDATA[publish]]></wp:status>
+        <wp:post_type><![CDATA[post]]></wp:post_type>
+        <category domain="category" nicename="fe-e-cotidiano"><![CDATA[Fé & Cotidiano]]></category>
+        <category domain="post_tag" nicename="editorial"><![CDATA[Editorial]]></category>
+        <category domain="post_tag" nicename="fe"><![CDATA[Fé]]></category>
+    </item>
+
+    <!-- Post 2: The Send (LONGO — com H2/H3 para testar TOC Dinâmico) -->
+    <item>
+        <title>The Send Brasil e o Despertar Missionário da Igreja Brasileira</title>
+        <link>https://vidaeegraca.com.br/the-send-brasil/</link>
+        <pubDate>Sat, 31 Jan 2026 10:00:00 +0000</pubDate>
+        <dc:creator><![CDATA[francisteles]]></dc:creator>
+        <guid isPermaLink="false">https://vidaeegraca.com.br/?p=102</guid>
+        <description></description>
+        <content:encoded><![CDATA[<p>Em entrevista à Revista Vida e Graça, Pastor Paulo Borges Júnior fala sobre propósito, unidade e mobilização espiritual.</p>
+
+<h2>O que é o The Send Brasil?</h2>
+<p>O movimento The Send Brasil reúne milhares de cristãos em todo o país, com um propósito claro: despertar a Igreja para uma fé prática, missionária e comprometida com a transformação espiritual e social. Em entrevista à Revista Vida e Graça, o pastor Paulo Júnior compartilha os fundamentos, a visão e os frutos esperados dessa grande mobilização cristã.</p>
+<p>Nascido nos Estados Unidos em 2019, o The Send chegou ao Brasil com uma proposta singular: reunir jovens e líderes cristãos em estádios para um dia inteiro de adoração, pregação e envio missionário. Diferente de conferências tradicionais, o foco não é apenas ouvir, mas responder ao chamado com ação concreta.</p>
+
+<h2>A Visão do Pastor Paulo Júnior</h2>
+<p><strong>Pastor Paulo Júnior:</strong> "Creio que o propósito principal da mobilização The Send Brasil é manter vivas as características mais essenciais da Igreja Brasileira — marcas históricas da nossa vocação no cenário da Igreja no mundo: a evangelização, a unidade, o discipulado e o ensino, o cuidado com o próximo e com os necessitados."</p>
+<blockquote><p>"Quando olhamos para a história da Igreja no Brasil, vemos um povo que sempre se destacou pela capacidade de alcançar os perdidos com criatividade, paixão e amor genuíno. O The Send é uma celebração dessa vocação e um chamado para que a nova geração assuma esse legado."</p></blockquote>
+
+<h3>Unidade entre denominações</h3>
+<p>Um dos aspectos mais marcantes do The Send é a capacidade de reunir cristãos de diferentes denominações em torno de um objetivo comum. Batistas, presbiterianos, assembleianos, metodistas e tantos outros se encontram no mesmo espaço, adorando ao mesmo Deus e se comprometendo com a mesma missão.</p>
+<p>"A unidade não significa uniformidade", explica o pastor. "Cada igreja tem suas particularidades teológicas e litúrgicas, e isso é saudável. Mas quando se trata de pregar o evangelho e servir ao próximo, somos um só corpo."</p>
+
+<h3>Impacto nas comunidades locais</h3>
+<p>O The Send não termina quando o evento acaba. Em cada cidade onde a mobilização acontece, grupos de ação social são formados, novas igrejas são plantadas e projetos de discipulado ganham força. Em 2025, mais de 50 cidades brasileiras foram impactadas diretamente pelo movimento.</p>
+
+<h2>Frutos e Próximos Passos</h2>
+<p>Os números impressionam desde a primeira edição brasileira:</p>
+<ol>
+<li>Mais de <strong>200 mil decisões por Cristo</strong> registradas em todo o país.</li>
+<li>Milhares de jovens enviados para campos missionários nacionais e internacionais.</li>
+<li>Crescimento significativo no engajamento comunitário das igrejas participantes.</li>
+<li>Mais de <strong>50 cidades</strong> brasileiras impactadas diretamente pelo movimento.</li>
+</ol>
+<p>"O fruto mais bonito não está nos números — está nas vidas transformadas. Cada história de restauração, cada família reconciliada, cada jovem que encontrou propósito. Isso não tem preço", conclui o pastor Paulo Júnior.</p>
+
+<h2>Como Participar</h2>
+<p>O próximo grande encontro do The Send Brasil está previsto para o segundo semestre de 2026, com edições confirmadas em São Paulo, Belo Horizonte, Recife e Manaus. Para mais informações, acesse o site oficial do movimento ou entre em contato com sua igreja local.</p>
+<p>A mobilização já começou. A pergunta é: você vai ficar de fora?</p>
+
+<p><em>Jornalista: Francis Teles.</em></p>]]></content:encoded>
+        <excerpt:encoded><![CDATA[Pastor Paulo Borges Júnior fala sobre propósito, unidade e mobilização espiritual no The Send Brasil.]]></excerpt:encoded>
+        <wp:post_id>102</wp:post_id>
+        <wp:post_date><![CDATA[2026-01-31 10:00:00]]></wp:post_date>
+        <wp:status><![CDATA[publish]]></wp:status>
+        <wp:post_type><![CDATA[post]]></wp:post_type>
+        <category domain="category" nicename="vida-e-sociedade"><![CDATA[Vida & Sociedade]]></category>
+        <category domain="post_tag" nicename="evangelismo"><![CDATA[Evangelismo]]></category>
+        <category domain="post_tag" nicename="missoes"><![CDATA[Missões]]></category>
+        <category domain="post_tag" nicename="igreja"><![CDATA[Igreja]]></category>
+    </item>
+
+    <!-- Post 3: Haroldo Walker -->
+    <item>
+        <title>Morre Haroldo Walker, pastor que se dedicou a ensinar a Bíblia no Brasil</title>
+        <link>https://vidaeegraca.com.br/morre-haroldo-walker/</link>
+        <pubDate>Mon, 09 Feb 2026 10:00:00 +0000</pubDate>
+        <dc:creator><![CDATA[igrejacma]]></dc:creator>
+        <guid isPermaLink="false">https://vidaeegraca.com.br/?p=103</guid>
+        <description></description>
+        <content:encoded><![CDATA[<p>Nesta segunda-feira (9), morreu o teólogo e professor Harold Walker aos 69 anos. O anúncio do falecimento foi dado no Instagram pela rede de igrejas Tikkun Brasil.</p>
+<p>"Harold Hamptom Walker foi um homem que deixou um legado profundo no Brasil, marcado por uma vida de entrega, serviço e amor genuíno por Jesus. Sua caminhada foi uma expressão viva de uma fé simples, intensa e transformadora — uma fé que apontava sempre para Cristo, nunca para si mesmo", afirmou a nota.</p>
+<p>Filho de pais missionários americanos, Harold cresceu evangelizando nas ruas em Minas Gerais e dedicou sua vida ao ensino da Palavra e ao discipulado.</p>]]></content:encoded>
+        <excerpt:encoded><![CDATA[O teólogo e professor Harold Walker deixou um legado profundo de ensino da Palavra de Deus a gerações no Brasil.]]></excerpt:encoded>
+        <wp:post_id>103</wp:post_id>
+        <wp:post_date><![CDATA[2026-02-09 10:00:00]]></wp:post_date>
+        <wp:status><![CDATA[publish]]></wp:status>
+        <wp:post_type><![CDATA[post]]></wp:post_type>
+        <category domain="category" nicename="historias-reais"><![CDATA[Histórias Reais]]></category>
+        <category domain="post_tag" nicename="testemunho"><![CDATA[Testemunho]]></category>
+        <category domain="post_tag" nicename="missoes"><![CDATA[Missões]]></category>
+    </item>
+
+    <!-- Post 4: Marcha pra Jesus -->
+    <item>
+        <title>Marcha pra Jesus 2026: Fé, História e Unidade em Goiânia</title>
+        <link>https://vidaeegraca.com.br/marcha-pra-jesus-goiania-2026/</link>
+        <pubDate>Wed, 18 Feb 2026 10:00:00 +0000</pubDate>
+        <dc:creator><![CDATA[francisteles]]></dc:creator>
+        <guid isPermaLink="false">https://vidaeegraca.com.br/?p=104</guid>
+        <description></description>
+        <content:encoded><![CDATA[<p>No dia 01 de maio de 2026, a capital goiana será palco da Marcha pra Jesus. O evento, com concentração na Praça do Avião, promete reunir milhares de cristãos para celebração pública da fé.</p>
+<p>Idealizada pelo Apóstolo César Augusto, a Marcha conta com o apoio de várias igrejas locais, fortalecendo os laços entre as comunidades cristãs. Grandes nomes como Aline Barros, Thalles Roberto e Delino Marçal estão confirmados para a noite de celebração na Praça Cívica.</p>]]></content:encoded>
+        <excerpt:encoded><![CDATA[Goiânia se prepara para um dos maiores movimentos de fé e adoração do país no feriado de 1º de maio.]]></excerpt:encoded>
+        <wp:post_id>104</wp:post_id>
+        <wp:post_date><![CDATA[2026-02-18 10:00:00]]></wp:post_date>
+        <wp:status><![CDATA[publish]]></wp:status>
+        <wp:post_type><![CDATA[post]]></wp:post_type>
+        <category domain="category" nicename="vida-e-sociedade"><![CDATA[Vida & Sociedade]]></category>
+        <category domain="post_tag" nicename="adoracao"><![CDATA[Adoração]]></category>
+        <category domain="post_tag" nicename="igreja"><![CDATA[Igreja]]></category>
+        <category domain="post_tag" nicename="fe"><![CDATA[Fé]]></category>
+    </item>
+
+    <!-- Post 5: Rayssa Leal -->
+    <item>
+        <title>Rayssa Leal: Fé e Recordes no Skate Mundial</title>
+        <link>https://vidaeegraca.com.br/rayssa-leal-skate-fe/</link>
+        <pubDate>Wed, 18 Feb 2026 11:00:00 +0000</pubDate>
+        <dc:creator><![CDATA[igrejacma]]></dc:creator>
+        <guid isPermaLink="false">https://vidaeegraca.com.br/?p=105</guid>
+        <description></description>
+        <content:encoded><![CDATA[<p>Rayssa Leal, a "Fadinha do Skate", costuma expressar sua fé publicamente. Nas Olimpíadas de Paris 2024, utilizou Libras para dizer "Jesus é o caminho, a verdade e a vida".</p>
+<p>Evangélica da Igreja Batista em Imperatriz (MA), Rayssa une a rotina de treinos de alto nível com um compromisso firme com seus valores cristãos. Aos 18 anos, ela já acumula títulos mundiais e se prepara para o próximo ciclo olímpico.</p>]]></content:encoded>
+        <excerpt:encoded><![CDATA[Conhecida como "Fadinha", a atleta expressa sua fé publicamente em grandes competições mundiais.]]></excerpt:encoded>
+        <wp:post_id>105</wp:post_id>
+        <wp:post_date><![CDATA[2026-02-18 11:00:00]]></wp:post_date>
+        <wp:status><![CDATA[publish]]></wp:status>
+        <wp:post_type><![CDATA[post]]></wp:post_type>
+        <category domain="category" nicename="cultura-e-arte"><![CDATA[Cultura & Arte]]></category>
+        <category domain="post_tag" nicename="esporte"><![CDATA[Esporte]]></category>
+        <category domain="post_tag" nicename="testemunho"><![CDATA[Testemunho]]></category>
+        <category domain="post_tag" nicename="fe"><![CDATA[Fé]]></category>
+    </item>
+
+    <!-- Post 6: Homens Notáveis -->
+    <item>
+        <title>Homens Notáveis Geram Valores, Não Apenas Conquistas</title>
+        <link>https://vidaeegraca.com.br/homens-notaveis-valores/</link>
+        <pubDate>Wed, 18 Feb 2026 12:00:00 +0000</pubDate>
+        <dc:creator><![CDATA[igrejacma]]></dc:creator>
+        <guid isPermaLink="false">https://vidaeegraca.com.br/?p=106</guid>
+        <description></description>
+        <content:encoded><![CDATA[<p>Homens notáveis não se reúnem apenas para fazer negócios; eles se encontram para gerar valores uns nos outros. Valores que fortalecem o caráter, sustentam a família e produzem responsabilidade.</p>
+<p>Relacionar é mais importante do que conquistar. Caráter é mais importante do que posição. Responsabilidade é mais importante do que aplauso. Que sejamos homens que constroem, não que destroem.</p>
+<p><em>Por: Hamilton Jr, Pastor do Ministério Sal da Terra CMA.</em></p>]]></content:encoded>
+        <excerpt:encoded><![CDATA[Uma reflexão sobre o verdadeiro legado e os valores que sustentam o caráter masculino na sociedade contemporânea.]]></excerpt:encoded>
+        <wp:post_id>106</wp:post_id>
+        <wp:post_date><![CDATA[2026-02-18 12:00:00]]></wp:post_date>
+        <wp:status><![CDATA[publish]]></wp:status>
+        <wp:post_type><![CDATA[post]]></wp:post_type>
+        <category domain="category" nicename="fe-e-cotidiano"><![CDATA[Fé & Cotidiano]]></category>
+        <category domain="post_tag" nicename="lideranca"><![CDATA[Liderança]]></category>
+        <category domain="post_tag" nicename="carater"><![CDATA[Caráter]]></category>
+    </item>
+
+    <!-- ==================== PÁGINAS ==================== -->
+
+    <!-- Página 1: Sobre Nós -->
+    <item>
+        <title>Sobre Nós</title>
+        <link>https://vidaeegraca.com.br/sobre/</link>
+        <pubDate>Fri, 30 Jan 2026 08:00:00 +0000</pubDate>
+        <dc:creator><![CDATA[cassianobento]]></dc:creator>
+        <guid isPermaLink="false">https://vidaeegraca.com.br/?page_id=301</guid>
+        <description></description>
+        <content:encoded><![CDATA[<h2>Nossa História</h2>
+<p>A Revista Vida &amp; Graça nasceu em 2026 a partir de um sonho compartilhado entre líderes, comunicadores e apaixonados pelo evangelho: criar uma publicação cristã que fosse ao mesmo tempo <strong>jornalisticamente séria</strong> e <strong>espiritualmente edificante</strong>.</p>
+<p>Inspirados por veículos como Christianity Today, Relevant Magazine e Ultimato, decidimos que era hora do Brasil ter uma revista digital que tratasse a fé com profundidade, sem abrir mão da beleza editorial e da relevância cultural.</p>
+
+<h2>Nossa Missão</h2>
+<blockquote><p>"Comunicar o evangelho de forma viva, relevante e conectada com o nosso tempo, sem abrir mão da verdade da Palavra e dos valores do Reino de Deus."</p></blockquote>
+
+<h2>O que nos move</h2>
+<ul>
+<li><strong>Jornalismo com propósito</strong> — Cada reportagem busca revelar a ação de Deus na vida real, com apuração criteriosa e compromisso com a verdade.</li>
+<li><strong>Fé e cultura em diálogo</strong> — Acreditamos que a fé cristã enriquece todas as áreas da vida: arte, esporte, ciência, educação e sociedade.</li>
+<li><strong>Vozes diversas, fé una</strong> — Damos espaço para diferentes perspectivas dentro do cristianismo, sempre ancorados na centralidade de Cristo.</li>
+<li><strong>Excelência editorial</strong> — Design, fotografia e texto de alto nível, porque acreditamos que o belo também glorifica a Deus.</li>
+</ul>
+
+<h2>Nossos Valores</h2>
+<ol>
+<li><strong>Verdade</strong> — Compromisso absoluto com a veracidade das informações publicadas.</li>
+<li><strong>Graça</strong> — Tratamos cada história e cada pessoa com o amor que recebemos de Cristo.</li>
+<li><strong>Relevância</strong> — Produzimos conteúdo que dialoga com as questões reais do nosso tempo.</li>
+<li><strong>Comunidade</strong> — Existimos para servir a Igreja e edificar o Corpo de Cristo.</li>
+</ol>
+
+<p>Somos uma iniciativa da <strong>Igreja Cristã Maranata de Aparecida de Goiânia</strong>, mas nosso alcance é para todo cristão que deseja uma fé pensante, ativa e transformadora.</p>
+<p>Quer fazer parte dessa história? <a href="/contato/">Fale conosco</a> ou <a href="/anuncie/">anuncie na revista</a>.</p>]]></content:encoded>
+        <excerpt:encoded><![CDATA[Comunicando o evangelho de forma viva, relevante e conectada com o nosso tempo.]]></excerpt:encoded>
+        <wp:post_id>301</wp:post_id>
+        <wp:post_date><![CDATA[2026-01-30 08:00:00]]></wp:post_date>
+        <wp:status><![CDATA[publish]]></wp:status>
+        <wp:post_type><![CDATA[page]]></wp:post_type>
+        <wp:post_parent>0</wp:post_parent>
+        <wp:menu_order>1</wp:menu_order>
+    </item>
+
+    <!-- Página 2: Expediente -->
+    <item>
+        <title>Expediente</title>
+        <link>https://vidaeegraca.com.br/expediente/</link>
+        <pubDate>Fri, 30 Jan 2026 08:00:00 +0000</pubDate>
+        <dc:creator><![CDATA[cassianobento]]></dc:creator>
+        <guid isPermaLink="false">https://vidaeegraca.com.br/?page_id=302</guid>
+        <description></description>
+        <content:encoded><![CDATA[<h2>Direção Editorial</h2>
+<ul>
+<li><strong>Editor-Chefe:</strong> Cassiano de Souza Bento — <a href="https://www.instagram.com/p/DVB52FCAO6f" target="_blank">@revistavidaegraca</a></li>
+</ul>
+
+<h2>Redação e Reportagem</h2>
+<ul>
+<li><strong>Jornalista:</strong> Francis Teles — <a href="https://instagram.com/francis.telles.jor" target="_blank">@francis.telles.jor</a></li>
+</ul>
+
+<h2>Tecnologia e Design</h2>
+<ul>
+<li><strong>Desenvolvimento Digital e UX:</strong> Luiz Sardinha</li>
+</ul>
+
+<h2>Sobre a Publicação</h2>
+<p>A Revista Vida &amp; Graça é uma publicação digital cristã com periodicidade semanal, lançada em janeiro de 2026. Todo o conteúdo é produzido com compromisso editorial, ética jornalística e responsabilidade cristã.</p>
+
+<h2>Política Editorial</h2>
+<p>Nossa linha editorial é interdenominacional, com respeito às diferentes tradições cristãs. Não publicamos conteúdo que promova divisão, intolerância ou desinformação. Todas as opiniões expressas em artigos assinados são de responsabilidade de seus autores.</p>
+
+<h2>Direitos Autorais</h2>
+<p>Todo o conteúdo publicado nesta revista é protegido por direitos autorais © 2026. A reprodução parcial é permitida com atribuição de crédito e link para a matéria original. Reproduções integrais requerem autorização prévia: <strong>redacao@vidaeegraca.com.br</strong></p>]]></content:encoded>
+        <excerpt:encoded><![CDATA[Conheça a equipe por trás da Revista Vida & Graça e nossa política editorial.]]></excerpt:encoded>
+        <wp:post_id>302</wp:post_id>
+        <wp:post_date><![CDATA[2026-01-30 08:00:00]]></wp:post_date>
+        <wp:status><![CDATA[publish]]></wp:status>
+        <wp:post_type><![CDATA[page]]></wp:post_type>
+        <wp:post_parent>0</wp:post_parent>
+        <wp:menu_order>2</wp:menu_order>
+    </item>
+
+    <!-- Página 3: Contato -->
+    <item>
+        <title>Contato</title>
+        <link>https://vidaeegraca.com.br/contato/</link>
+        <pubDate>Fri, 30 Jan 2026 08:00:00 +0000</pubDate>
+        <dc:creator><![CDATA[cassianobento]]></dc:creator>
+        <guid isPermaLink="false">https://vidaeegraca.com.br/?page_id=303</guid>
+        <description></description>
+        <content:encoded><![CDATA[<p>Ficamos felizes com o seu interesse em falar conosco. A Vida &amp; Graça é feita para — e com — os leitores. Escolha o canal mais adequado:</p>
+
+<h2>Redação</h2>
+<p>Para sugestões de pauta, correções, comentários ou feedback editorial.</p>
+<ul>
+<li><strong>E-mail:</strong> redacao@vidaeegraca.com.br</li>
+<li><strong>Assunto sugerido:</strong> [Pauta] ou [Feedback] + título da matéria</li>
+</ul>
+
+<h2>Comercial e Publicidade</h2>
+<p>Interessado em anunciar ou firmar parcerias?</p>
+<ul>
+<li><strong>E-mail:</strong> comercial@vidaeegraca.com.br</li>
+<li>Consulte nosso <a href="/anuncie/">mídia kit completo</a></li>
+</ul>
+
+<h2>Redes Sociais</h2>
+<ul>
+<li><strong>Instagram:</strong> <a href="https://www.instagram.com/p/DVB52FCAO6f" target="_blank">@revistavidaegraca</a></li>
+<li><strong>Facebook:</strong> <a href="https://www.facebook.com/revistavidaegraca" target="_blank">@revistavidaegraca</a></li>
+<li><strong>YouTube:</strong> <a href="https://www.youtube.com/revistavidaegraca" target="_blank">@revistavidaegraca</a></li>
+</ul>
+
+<h2>Envie sua História</h2>
+<p>Tem um testemunho inspirador? Conhece alguém cuja história merece ser contada? Envie para <strong>redacao@vidaeegraca.com.br</strong> com o assunto <em>"Minha História"</em>.</p>
+<blockquote><p>"Cada leitor é parte da missão. Sua voz importa para nós."</p></blockquote>
+
+<h2>Localização</h2>
+<p>Publicação digital da <strong>Igreja Cristã Maranata</strong>, Aparecida de Goiânia, Goiás. Por ser 100% digital, atendemos leitores em todo o Brasil e na diáspora brasileira.</p>]]></content:encoded>
+        <excerpt:encoded><![CDATA[Fale conosco, envie sua história ou conheça nossos canais de contato.]]></excerpt:encoded>
+        <wp:post_id>303</wp:post_id>
+        <wp:post_date><![CDATA[2026-01-30 08:00:00]]></wp:post_date>
+        <wp:status><![CDATA[publish]]></wp:status>
+        <wp:post_type><![CDATA[page]]></wp:post_type>
+        <wp:post_parent>0</wp:post_parent>
+        <wp:menu_order>3</wp:menu_order>
+    </item>
+
+    <!-- Página 4: Anuncie -->
+    <item>
+        <title>Anuncie</title>
+        <link>https://vidaeegraca.com.br/anuncie/</link>
+        <pubDate>Fri, 30 Jan 2026 08:00:00 +0000</pubDate>
+        <dc:creator><![CDATA[cassianobento]]></dc:creator>
+        <guid isPermaLink="false">https://vidaeegraca.com.br/?page_id=304</guid>
+        <description></description>
+        <content:encoded><![CDATA[<p>Conecte sua marca a um público engajado e fiel. A Vida &amp; Graça oferece oportunidades de visibilidade para marcas, ministérios e organizações que compartilham dos nossos valores.</p>
+
+<h2>Nosso Público</h2>
+<ul>
+<li><strong>Perfil:</strong> Cristãos entre 25 e 55 anos, engajados em suas comunidades de fé</li>
+<li><strong>Interesse:</strong> Fé prática, cultura, liderança, família e sociedade</li>
+<li><strong>Alcance:</strong> Nacional, com forte presença no Centro-Oeste e Sudeste</li>
+<li><strong>Engajamento:</strong> Alto tempo de leitura (média de 4 minutos por artigo)</li>
+</ul>
+
+<h2>Formatos Disponíveis</h2>
+<ol>
+<li><strong>Banner Premium</strong> — Espaço visual de destaque no header ou sidebar das páginas de artigo.</li>
+<li><strong>Conteúdo Patrocinado</strong> — Artigo editorial produzido em parceria, com identificação transparente de patrocínio.</li>
+<li><strong>Newsletter Exclusiva</strong> — Menção ou banner no e-mail semanal enviado à nossa base de assinantes.</li>
+<li><strong>Parceria Institucional</strong> — Cobertura editorial de eventos, conferências ou lançamentos do parceiro.</li>
+</ol>
+
+<h2>Diferenciais</h2>
+<blockquote><p>"Não vendemos espaço — construímos pontes entre marcas éticas e um público que valoriza conteúdo com propósito."</p></blockquote>
+<ul>
+<li>Design editorial premium que valoriza a marca do anunciante</li>
+<li>Segmentação por editoria (Fé &amp; Cotidiano, Cultura &amp; Arte, etc.)</li>
+<li>Relatórios de performance com métricas reais</li>
+<li>Compromisso ético: não veiculamos anúncios incompatíveis com nossos valores</li>
+</ul>
+
+<h2>Solicite o Mídia Kit</h2>
+<p>Envie um e-mail para <strong>comercial@vidaeegraca.com.br</strong> com o assunto <em>"Mídia Kit"</em> e receba nosso material completo com valores, formatos e cases.</p>]]></content:encoded>
+        <excerpt:encoded><![CDATA[Conecte sua marca a um público engajado e fiel. Conheça nossos formatos de publicidade.]]></excerpt:encoded>
+        <wp:post_id>304</wp:post_id>
+        <wp:post_date><![CDATA[2026-01-30 08:00:00]]></wp:post_date>
+        <wp:status><![CDATA[publish]]></wp:status>
+        <wp:post_type><![CDATA[page]]></wp:post_type>
+        <wp:post_parent>0</wp:post_parent>
+        <wp:menu_order>4</wp:menu_order>
+    </item>
+
+    <!-- Página 5: Edição Atual -->
+    <item>
+        <title>Edição Atual</title>
+        <link>https://vidaeegraca.com.br/edicao-atual/</link>
+        <pubDate>Mon, 17 Feb 2026 08:00:00 +0000</pubDate>
+        <dc:creator><![CDATA[cassianobento]]></dc:creator>
+        <guid isPermaLink="false">https://vidaeegraca.com.br/?page_id=305</guid>
+        <description></description>
+        <content:encoded><![CDATA[<h2>Edição 03 — Fevereiro 2026</h2>
+<p><strong>"Homens que Constroem"</strong> — Nesta edição, exploramos o que significa ser um homem de caráter em tempos de superficialidade. Conversamos com pastores, educadores e pais sobre liderança servidora, vulnerabilidade saudável e o legado que queremos deixar.</p>
+
+<h2>Destaques desta Edição</h2>
+<ul>
+<li><strong>Capa:</strong> <a href="/homens-notaveis-valores/">Homens Notáveis Geram Valores, Não Apenas Conquistas</a></li>
+<li><strong>Entrevista:</strong> <a href="/the-send-brasil/">The Send Brasil e o Despertar Missionário</a></li>
+<li><strong>Memória:</strong> <a href="/morre-haroldo-walker/">Morre Haroldo Walker</a></li>
+<li><strong>Cultura:</strong> <a href="/rayssa-leal-skate-fe/">Rayssa Leal: Fé e Recordes no Skate</a></li>
+<li><strong>Agenda:</strong> <a href="/marcha-pra-jesus-goiania-2026/">Marcha pra Jesus Goiânia 2026</a></li>
+</ul>
+
+<h2>Carta do Editor</h2>
+<blockquote><p>"Nesta terceira edição, mergulhamos no tema que define o tom da Vida &amp; Graça: a intersecção entre fé e vida real. Cada matéria foi produzida com carinho, rigor e o desejo de que cada palavra lida aqui produza reflexão e ação."</p>
+<p>— Cassiano de Souza Bento, Editor-Chefe</p></blockquote>
+
+<p>Boa leitura! E se alguma matéria tocar você, <strong>compartilhe com alguém</strong> — porque boas histórias merecem ser multiplicadas.</p>]]></content:encoded>
+        <excerpt:encoded><![CDATA[Edição 03 — Fevereiro 2026: "Homens que Constroem". Confira os destaques.]]></excerpt:encoded>
+        <wp:post_id>305</wp:post_id>
+        <wp:post_date><![CDATA[2026-02-17 08:00:00]]></wp:post_date>
+        <wp:status><![CDATA[publish]]></wp:status>
+        <wp:post_type><![CDATA[page]]></wp:post_type>
+        <wp:post_parent>0</wp:post_parent>
+        <wp:menu_order>5</wp:menu_order>
+    </item>
+
+    <!-- Página 6: Edições Anteriores -->
+    <item>
+        <title>Edições Anteriores</title>
+        <link>https://vidaeegraca.com.br/edicoes-anteriores/</link>
+        <pubDate>Fri, 30 Jan 2026 08:00:00 +0000</pubDate>
+        <dc:creator><![CDATA[cassianobento]]></dc:creator>
+        <guid isPermaLink="false">https://vidaeegraca.com.br/?page_id=306</guid>
+        <description></description>
+        <content:encoded><![CDATA[<p>Reviva cada edição da Revista Vida &amp; Graça. Todas as matérias permanecem disponíveis gratuitamente.</p>
+
+<h2>Edição 03 — Fevereiro 2026</h2>
+<p><strong>Tema: "Homens que Constroem"</strong></p>
+<p>Reflexões sobre caráter masculino, liderança servidora e o legado que construímos. Destaque para a mobilização The Send Brasil e a despedida do teólogo Haroldo Walker.</p>
+<p><a href="/edicao-atual/">→ Ler edição completa</a></p>
+
+<h2>Edição 02 — Janeiro 2026</h2>
+<p><strong>Tema: "Novos Começos"</strong></p>
+<p>A edição de abertura do ano trouxe reflexões sobre recomeços, propósitos e alinhamento espiritual. Entrevistas com líderes de jovens sobre como a geração Z está redefinindo a experiência de fé.</p>
+
+<h2>Edição 01 — Janeiro 2026 (Lançamento)</h2>
+<p><strong>Tema: "Nasce uma Revista"</strong></p>
+<p>A primeira edição veio ao mundo com a carta do editor Cassiano de Souza Bento, apresentando a missão, os valores e o sonho por trás da publicação.</p>
+<blockquote><p>"A Vida &amp; Graça surge do desejo de comunicar o evangelho de forma viva, relevante e conectada com o nosso tempo."<br />— Cassiano de Souza Bento</p></blockquote>]]></content:encoded>
+        <excerpt:encoded><![CDATA[Acervo completo de todas as edições da Revista Vida & Graça.]]></excerpt:encoded>
+        <wp:post_id>306</wp:post_id>
+        <wp:post_date><![CDATA[2026-01-30 08:00:00]]></wp:post_date>
+        <wp:status><![CDATA[publish]]></wp:status>
+        <wp:post_type><![CDATA[page]]></wp:post_type>
+        <wp:post_parent>0</wp:post_parent>
+        <wp:menu_order>6</wp:menu_order>
+    </item>
+
+    <!-- Página 7: Colunistas -->
+    <item>
+        <title>Colunistas</title>
+        <link>https://vidaeegraca.com.br/colunistas/</link>
+        <pubDate>Fri, 30 Jan 2026 08:00:00 +0000</pubDate>
+        <dc:creator><![CDATA[cassianobento]]></dc:creator>
+        <guid isPermaLink="false">https://vidaeegraca.com.br/?page_id=307</guid>
+        <description></description>
+        <content:encoded><![CDATA[<p>A Revista Vida &amp; Graça reúne vozes que aliam profundidade teológica, vivência pastoral e sensibilidade cultural.</p>
+
+<h2>Cassiano de Souza Bento</h2>
+<p><strong>Editor-Chefe e Colunista</strong></p>
+<p>Líder eclesiástico e comunicador com paixão por editorial cristão. Cassiano é o idealizador da Vida &amp; Graça e assina as cartas do editor e ensaios sobre fé, cultura e liderança.</p>
+<ul>
+<li>Instagram: <a href="https://instagram.com/cassianodesouzabento" target="_blank">@cassianodesouzabento</a></li>
+<li>E-mail: cassioano.bento@gmail.com</li>
+</ul>
+
+<h2>Francis Teles</h2>
+<p><strong>Jornalista e Repórter</strong></p>
+<p>Jornalista com experiência em cobertura de movimentos cristãos, eventos eclesiásticos e histórias de impacto social. Responsável pelas grandes reportagens e entrevistas da revista.</p>
+<ul>
+<li>Instagram: <a href="https://instagram.com/francis.telles.jor" target="_blank">@francis.telles.jor</a></li>
+<li>E-mail: francistellesjor@gmail.com</li>
+</ul>
+
+<h2>Pastor Hamilton Jr</h2>
+<p><strong>Colunista Convidado</strong></p>
+<p>Líder do Ministério Sal da Terra da Igreja Cristã Maranata, Hamilton Jr é uma voz respeitada no tema de masculinidade cristã, caráter e valores familiares. Suas reflexões curtas e impactantes são marca registrada da revista.</p>
+
+<h2>Quer ser Colunista?</h2>
+<p>A Vida &amp; Graça está sempre aberta a novas vozes. Se você é teólogo, pastor, educador, artista ou pensador cristão, envie um artigo de amostra (800 a 1.500 palavras) para <strong>redacao@vidaeegraca.com.br</strong> com o assunto <em>"Quero ser colunista"</em>.</p>
+<blockquote><p>"Acreditamos que a diversidade de vozes fortalece a unidade da fé."</p></blockquote>]]></content:encoded>
+        <excerpt:encoded><![CDATA[Conheça as vozes que dão vida à Revista Vida & Graça.]]></excerpt:encoded>
+        <wp:post_id>307</wp:post_id>
+        <wp:post_date><![CDATA[2026-01-30 08:00:00]]></wp:post_date>
+        <wp:status><![CDATA[publish]]></wp:status>
+        <wp:post_type><![CDATA[page]]></wp:post_type>
+        <wp:post_parent>0</wp:post_parent>
+        <wp:menu_order>7</wp:menu_order>
+    </item>
+
+    <!-- Página 8: Política de Privacidade -->
+    <item>
+        <title>Política de Privacidade</title>
+        <link>https://vidaeegraca.com.br/privacidade/</link>
+        <pubDate>Fri, 30 Jan 2026 08:00:00 +0000</pubDate>
+        <dc:creator><![CDATA[cassianobento]]></dc:creator>
+        <guid isPermaLink="false">https://vidaeegraca.com.br/?page_id=308</guid>
+        <description></description>
+        <content:encoded><![CDATA[<p><strong>Última atualização:</strong> 30 de janeiro de 2026.</p>
+
+<p>A Revista Vida &amp; Graça ("nós", "nosso" ou "nossa") valoriza a privacidade de seus leitores e visitantes. Esta Política de Privacidade descreve como coletamos, usamos, armazenamos e protegemos as informações pessoais dos usuários deste site, em conformidade com a <strong>Lei Geral de Proteção de Dados (LGPD — Lei nº 13.709/2018)</strong> e demais legislações aplicáveis.</p>
+
+<h2>1. Informações que Coletamos</h2>
+<p>Podemos coletar as seguintes categorias de dados pessoais:</p>
+<ul>
+<li><strong>Dados de identificação:</strong> nome e endereço de e-mail, quando fornecidos voluntariamente pelo usuário (por exemplo, ao enviar mensagens pelo formulário de contato).</li>
+<li><strong>Dados de navegação:</strong> endereço IP, tipo de navegador, páginas visitadas, tempo de permanência, origem do acesso e outros dados coletados automaticamente por meio de cookies e tecnologias similares.</li>
+</ul>
+
+<h2>2. Finalidade do Tratamento</h2>
+<p>Os dados pessoais são tratados para as seguintes finalidades:</p>
+<ol>
+<li>Melhorar a experiência de navegação e o conteúdo do site.</li>
+<li>Responder a solicitações, dúvidas e sugestões enviadas pelo usuário.</li>
+<li>Gerar estatísticas anônimas de acesso e audiência.</li>
+<li>Cumprir obrigações legais e regulatórias.</li>
+</ol>
+
+<h2>3. Cookies</h2>
+<p>Utilizamos cookies essenciais para o funcionamento do site (como preferência de tema claro/escuro) e cookies analíticos para compreender padrões de uso. Você pode gerenciar ou desativar cookies nas configurações do seu navegador, embora isso possa afetar algumas funcionalidades.</p>
+
+<h2>4. Compartilhamento de Dados</h2>
+<p><strong>Não vendemos, alugamos ou compartilhamos dados pessoais com terceiros para fins comerciais.</strong> Dados podem ser compartilhados apenas nas seguintes situações:</p>
+<ul>
+<li>Com prestadores de serviço essenciais (hospedagem, análise de dados), sob contratos que garantem a proteção das informações.</li>
+<li>Por determinação legal ou ordem judicial.</li>
+</ul>
+
+<h2>5. Armazenamento e Segurança</h2>
+<p>Adotamos medidas técnicas e organizacionais adequadas para proteger os dados pessoais contra acesso não autorizado, perda, destruição ou alteração. Os dados são armazenados apenas pelo tempo necessário para cumprir as finalidades descritas nesta política.</p>
+
+<h2>6. Direitos do Titular</h2>
+<p>Em conformidade com a LGPD, você tem direito a:</p>
+<ul>
+<li>Confirmar a existência de tratamento de seus dados pessoais.</li>
+<li>Acessar, corrigir ou atualizar seus dados.</li>
+<li>Solicitar a anonimização, bloqueio ou eliminação de dados desnecessários ou tratados em desconformidade.</li>
+<li>Revogar o consentimento a qualquer momento.</li>
+<li>Solicitar a portabilidade dos dados.</li>
+</ul>
+<p>Para exercer seus direitos, entre em contato pelo e-mail: <strong>privacidade@vidaeegraca.com.br</strong></p>
+
+<h2>7. Alterações nesta Política</h2>
+<p>Podemos atualizar esta Política de Privacidade periodicamente. Publicaremos a versão revisada nesta página com a data da última atualização. Recomendamos que você consulte esta página regularmente.</p>
+
+<h2>8. Contato</h2>
+<p>Se tiver dúvidas sobre esta Política de Privacidade ou sobre o tratamento dos seus dados pessoais, entre em contato conosco:</p>
+<ul>
+<li><strong>E-mail:</strong> privacidade@vidaeegraca.com.br</li>
+<li><strong>Responsável:</strong> Revista Vida &amp; Graça — Igreja Cristã Maranata de Aparecida de Goiânia</li>
+</ul>]]></content:encoded>
+        <excerpt:encoded><![CDATA[Saiba como a Revista Vida & Graça coleta, utiliza e protege seus dados pessoais.]]></excerpt:encoded>
+        <wp:post_id>308</wp:post_id>
+        <wp:post_date><![CDATA[2026-01-30 08:00:00]]></wp:post_date>
+        <wp:status><![CDATA[publish]]></wp:status>
+        <wp:post_type><![CDATA[page]]></wp:post_type>
+        <wp:post_parent>0</wp:post_parent>
+        <wp:menu_order>8</wp:menu_order>
+    </item>
+
+    <!-- Página 9: Termos de Uso -->
+    <item>
+        <title>Termos de Uso</title>
+        <link>https://vidaeegraca.com.br/termos/</link>
+        <pubDate>Fri, 30 Jan 2026 08:00:00 +0000</pubDate>
+        <dc:creator><![CDATA[cassianobento]]></dc:creator>
+        <guid isPermaLink="false">https://vidaeegraca.com.br/?page_id=309</guid>
+        <description></description>
+        <content:encoded><![CDATA[<p><strong>Última atualização:</strong> 30 de janeiro de 2026.</p>
+
+<p>Ao acessar e utilizar o site da Revista Vida &amp; Graça ("Site"), você concorda com os presentes Termos de Uso. Caso não concorde com qualquer disposição, recomendamos que não utilize o Site.</p>
+
+<h2>1. Aceitação dos Termos</h2>
+<p>O uso deste Site implica na aceitação integral destes Termos de Uso e da nossa <a href="/privacidade/">Política de Privacidade</a>. Reservamo-nos o direito de modificar estes termos a qualquer momento, sendo a versão vigente sempre a publicada nesta página.</p>
+
+<h2>2. Propriedade Intelectual</h2>
+<p>Todo o conteúdo publicado neste Site — incluindo, mas não se limitando a textos, fotografias, ilustrações, logotipos, layout e design — é protegido por direitos autorais e pertence à Revista Vida &amp; Graça ou a seus respectivos autores e licenciadores.</p>
+<ul>
+<li><strong>Reprodução parcial</strong> é permitida para fins informativos, desde que citada a fonte e incluído link para o conteúdo original.</li>
+<li><strong>Reprodução integral</strong> de qualquer conteúdo requer autorização prévia por escrito. Solicite pelo e-mail: <strong>redacao@vidaeegraca.com.br</strong></li>
+</ul>
+
+<h2>3. Uso Permitido</h2>
+<p>O usuário compromete-se a utilizar o Site apenas para fins lícitos e de acordo com estes Termos. É proibido:</p>
+<ol>
+<li>Utilizar o conteúdo do Site para fins comerciais sem autorização.</li>
+<li>Copiar, modificar, distribuir ou exibir publicamente o conteúdo sem a devida atribuição.</li>
+<li>Tentar acessar áreas restritas do Site ou interferir no seu funcionamento.</li>
+<li>Publicar ou transmitir conteúdo ilegal, ofensivo, difamatório ou que viole direitos de terceiros.</li>
+</ol>
+
+<h2>4. Conteúdo de Terceiros</h2>
+<p>O Site pode conter links para sites de terceiros. A Revista Vida &amp; Graça não se responsabiliza pelo conteúdo, políticas de privacidade ou práticas de sites externos. O acesso a esses links é de inteira responsabilidade do usuário.</p>
+
+<h2>5. Isenção de Garantias</h2>
+<p>O conteúdo do Site é disponibilizado "como está", sem garantias de qualquer natureza, expressas ou implícitas. Embora nos esforcemos para manter informações precisas e atualizadas, a Revista Vida &amp; Graça não garante a exatidão, completude ou atualidade de todo o conteúdo publicado.</p>
+
+<h2>6. Limitação de Responsabilidade</h2>
+<p>A Revista Vida &amp; Graça não será responsável por:</p>
+<ul>
+<li>Danos diretos, indiretos, incidentais ou consequentes decorrentes do uso ou da impossibilidade de uso do Site.</li>
+<li>Decisões tomadas com base no conteúdo publicado no Site.</li>
+<li>Interrupções temporárias no acesso ao Site por motivos técnicos ou de manutenção.</li>
+</ul>
+
+<h2>7. Contribuições dos Leitores</h2>
+<p>Ao enviar comentários, sugestões, histórias ou qualquer tipo de conteúdo para a Revista Vida &amp; Graça, o usuário concede ao Site licença não exclusiva, gratuita e por prazo indeterminado para publicar, editar e distribuir tal conteúdo em qualquer meio, sempre respeitando a autoria quando aplicável.</p>
+
+<h2>8. Lei Aplicável e Foro</h2>
+<p>Estes Termos de Uso são regidos pelas leis da República Federativa do Brasil. Fica eleito o foro da Comarca de Aparecida de Goiânia, Estado de Goiás, para dirimir quaisquer controvérsias decorrentes destes Termos, com renúncia a qualquer outro, por mais privilegiado que seja.</p>
+
+<h2>9. Contato</h2>
+<p>Em caso de dúvidas sobre estes Termos de Uso, entre em contato conosco:</p>
+<ul>
+<li><strong>E-mail:</strong> redacao@vidaeegraca.com.br</li>
+<li><strong>Responsável:</strong> Revista Vida &amp; Graça — Igreja Cristã Maranata de Aparecida de Goiânia</li>
+</ul>]]></content:encoded>
+        <excerpt:encoded><![CDATA[Conheça os termos e condições de uso do site da Revista Vida & Graça.]]></excerpt:encoded>
+        <wp:post_id>309</wp:post_id>
+        <wp:post_date><![CDATA[2026-01-30 08:00:00]]></wp:post_date>
+        <wp:status><![CDATA[publish]]></wp:status>
+        <wp:post_type><![CDATA[page]]></wp:post_type>
+        <wp:post_parent>0</wp:post_parent>
+        <wp:menu_order>9</wp:menu_order>
+    </item>
+
+</channel>
+</rss>
